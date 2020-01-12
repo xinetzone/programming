@@ -2,7 +2,7 @@
 
 本书记录了如何使用 Git 去管理项目以及如何使用 Python 处理数据集，训练神经网络，做符号运算。同时也介绍了 MXNet 与 TensorFlow2 的基本使用。
 
-详细的内容见 [自学手册.docx](自学手册.docx)|[自学手册.pdf](自学手册.pdf)。
+详细的内容见 [自学手册.docx](tutorials.docx)|[自学手册.pdf](tutorials.pdf)。
 
 目录结构：
 
