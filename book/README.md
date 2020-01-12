@@ -1,8 +1,8 @@
-## 我的第一本书
+## 计算机视觉入门必修手册
 
-本书记录了如何使用 Git 去管理项目以及如何使用 Python 处理数据集，训练神经网络，做符号运算。同时也介绍了 MXNet 与 TensorFlow2 的基本使用。
+本书记录了如何使用 Git 去管理项目以及如何使用 Python 处理数据集，训练神经网络，做符号运算。同时也介绍了 MXNet 与 TensorFlow2 的基本使用。如何阅读这本书，请参考[慕课网：计算机视觉入门必修手册](https://www.imooc.com/article/298879)。
 
-详细的内容见 [自学手册.docx](tutorials.docx)|[自学手册.pdf](tutorials.pdf)。
+详细的内容见 [tutorials.docx](tutorials.docx)|[tutorials.pdf](tutorials.pdf)。
 
 目录结构：
 
